@@ -1,0 +1,35 @@
+cff-version: 1.0.1
+message: Please cite this software using these metadata.
+title: Mais Saúde
+authors:
+  - family-names: Araújo Pacheco
+    given-names: Lucas
+  - family-names: Mendes Moura
+    given-names: Marco Tulio 
+  - family-names: Avelar de Souza
+    given-names: Matheus Augusto 
+  - family-names: Reis Ferreira
+    given-names: Milena Lara
+  - family-names: Rattes Soares
+    given-names: Octavio Walter 
+  - family-names: Schmitberger Pelisson
+    given-names: Pedro Henrique 
+  - name-suffix: Professor
+    affiliation: PUC Minas
+    family-names: Lima Reis
+    given-names: Felipe Augusto 
+  - name-suffix: Professor
+    affiliation: PUC Minas
+    family-names: Barbosa da Fonseca
+    given-names: Gabriel 
+  - name-suffix: Professor
+    affiliation: PUC Minas
+    family-names: Alves Nogueira
+    given-names: Simone 
+keywords:
+  - Educacional
+  - Saúde
+repository-code: https://github.com/ICEI-PUC-Minas-PPLES-TI/plf-es-2022-2-ti1-7946100-grupo-6-mais-saude
+license: CC-BY-4.0
+version: 1.0.0
+date-released: 2022-12-14
